@@ -8,8 +8,8 @@ This repository hosts Certificate Revocation Lists (CRLs) for my PKI infrastruct
 
 ## Access URLs
 CRLs are publicly accessible via GitHub Pages:
-- Root CA CRL: `https://[your-username].github.io/crl-repository/rootCA.crl`
-- Subroot CA CRL: `https://[your-username].github.io/crl-repository/subrootCA.crl`
+- Root CA CRL: `https://ibro.github.io/crl-repository/rootCA.crl`
+- Subroot CA CRL: `https://ibro.github.io/crl-repository/subrootCA.crl`
 
 ## Last Updated
 $(date +%Y-%m-%d)
