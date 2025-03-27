@@ -12,4 +12,4 @@ CRLs are publicly accessible via GitHub Pages:
 - Subroot CA CRL: `https://ibro.github.io/crl-repository/subrootCA.crl`
 
 ## Last Updated
-$(date +%Y-%m-%d)
+$(date +%2025-%03-%27)
